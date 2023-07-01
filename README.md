@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <head>
     <link rel = "stylesheet" type = "text/css" href = "izumeme.css">
     <script src = "izumeme.js"></script>
@@ -83,4 +83,4 @@
     <span class="dots" onclick="currentSlide(3)"></span>
   </div> 
   </body>
-  </html>
+
